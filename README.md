@@ -1,4 +1,4 @@
-![MasterHead](https://www.lexmark.com/content/dam/lexmark/images/custom-images/y2020/MPS-hero-banner-V3.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 # 💫 About Me:
 <img align="right" width=300 src="https://cdn.dribbble.com/users/547325/screenshots/4699723/harry-potter-gif.gif" alt="Harry Potter Animated GIF">

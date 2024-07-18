@@ -11,11 +11,16 @@ I'm a versatile developer skilled in C, C++, Python, Java, Django, Android App D
 
 # 📊 GitHub Stats:
 
-<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="" width="100%">
+</p>
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sandip-Basak&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip-Basak&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip-Basak&theme=great-gatsby&hide_border=false" alt="Sandip-Basak"/>
+</p>
+<p align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip-Basak&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sandip-Basak"/>
+</p>
 
 ## 🌐 Socials:
 <p align="left">

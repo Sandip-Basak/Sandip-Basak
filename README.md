@@ -24,7 +24,6 @@ I'm a versatile developer skilled in C, C++, Python, Java, Django, Android App D
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/sandip-basak-43b948234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip-basak-43b948234" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/How-can-I-become-rich-/61553920256493/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="how_can_i_become_rich" height="30" width="40" /></a>
 <a href="https://instagram.com/how_can_i_become_rich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="how_can_i_become_rich" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@howcanibecomerich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="howcanibecomerich" height="30" width="40" /></a>

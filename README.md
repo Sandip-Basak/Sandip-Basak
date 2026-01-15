@@ -18,6 +18,3 @@ I'm a versatile developer skilled in C, C++, Python, Java, Django, Android App D
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandip-Basak&theme=great-gatsby&hide_border=false" alt="Sandip-Basak"/>
 </p>
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip-Basak&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sandip-Basak"/>
-</p>
